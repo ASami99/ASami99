@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, MongoDB, Express**
 
-- 💬 Ask me about **WordPress,Javascript**
+- 💬 Ask me about **WordPress,Javascript, HTML5, SCSS**
 
 - 📫 How to reach me **samirafiq.sohail@gmail.com**
 
